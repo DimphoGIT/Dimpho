@@ -1,0 +1,49 @@
+.Enter {
+    color: rgb(162, 55, 91);
+}
+
+.zeelogo {
+
+    margin-left: 37%;
+    margin-top: 100px;
+    width: 300px; 
+    height: 300px;
+    border-radius: 570%;
+    overflow :hidden;
+
+}
+
+
+
+body {
+    background: url(./images\ \(1\).jpeg);
+    background-size: 520px;
+
+  
+}
+form {
+    width: 30px;
+    margin-left: 40%;
+    margin-top: 100px;
+
+}
+
+a{
+    position: absolute;
+    top: 86%;
+    left: 45%;
+    width: 10%;
+    height: 10%;
+    color: black;
+    text-decoration: none;
+    z-index: 2;;
+}
+
+
+
+input{ 
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+}
+

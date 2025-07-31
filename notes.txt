@@ -1,0 +1,23 @@
+<opening tag attribute = ""></closing tag>
+
+
+Tags
+a = anchor
+h(1 -6) = header
+p = paragraph
+img = image(does not have closing tag)
+ul = unordered list
+ol = ordered list
+li = list item
+table
+thead = column name(table head)
+tr = table row
+td = table data
+
+Attributes
+lang = language
+src = source
+alt = alternative
+href = hyperlink reference
+width
+height

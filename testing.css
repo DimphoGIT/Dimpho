@@ -1,0 +1,11 @@
+.welcome {
+    text-align: center;
+}
+
+.zeelogo{
+    display: flex;
+      justify-content: center;  /* center horizontally */
+      align-items: center;      /* center vertically */
+      height: 100vh;            /* full screen */
+      background: #000;
+}
